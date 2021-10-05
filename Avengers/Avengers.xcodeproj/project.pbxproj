@@ -11,6 +11,23 @@
 		3CEC2ECA270B5BCE009B20B8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2EC9270B5BCE009B20B8 /* ContentView.swift */; };
 		3CEC2ECC270B5BCF009B20B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CEC2ECB270B5BCF009B20B8 /* Assets.xcassets */; };
 		3CEC2ECF270B5BCF009B20B8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CEC2ECE270B5BCF009B20B8 /* Preview Assets.xcassets */; };
+		3CEC2ED7270B5DE5009B20B8 /* Avenger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2ED6270B5DE5009B20B8 /* Avenger.swift */; };
+		3CEC2EDA270B7B3E009B20B8 /* AvengersListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2ED9270B7B3E009B20B8 /* AvengersListView.swift */; };
+		3CEC2EDE270B8119009B20B8 /* AvengersSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2EDD270B8119009B20B8 /* AvengersSectionView.swift */; };
+		3CEC2EE1270B8805009B20B8 /* MoviesListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2EE0270B8805009B20B8 /* MoviesListView.swift */; };
+		3CEC2EE3270B886E009B20B8 /* MovieSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2EE2270B886E009B20B8 /* MovieSectionView.swift */; };
+		3CEC2EE6270B8912009B20B8 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2EE5270B8912009B20B8 /* Movie.swift */; };
+		3CEC2EEB270B9444009B20B8 /* AvengersHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2EEA270B9444009B20B8 /* AvengersHeaderView.swift */; };
+		3CEC2EED270B95CE009B20B8 /* MoviesHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2EEC270B95CE009B20B8 /* MoviesHeaderView.swift */; };
+		3CEC2EF0270B9707009B20B8 /* NewsHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2EEF270B9707009B20B8 /* NewsHeaderView.swift */; };
+		3CEC2EF2270B977D009B20B8 /* NewsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2EF1270B977D009B20B8 /* NewsListView.swift */; };
+		3CEC2EF4270B97C1009B20B8 /* Art.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2EF3270B97C1009B20B8 /* Art.swift */; };
+		3CEC2EF6270B99E4009B20B8 /* NewsSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2EF5270B99E4009B20B8 /* NewsSectionView.swift */; };
+		3CEC2EF9270B9B30009B20B8 /* FavoritesHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2EF8270B9B30009B20B8 /* FavoritesHeaderView.swift */; };
+		3CEC2EFB270B9BBE009B20B8 /* FavoritesListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2EFA270B9BBE009B20B8 /* FavoritesListView.swift */; };
+		3CEC2EFF270B9D7E009B20B8 /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2EFE270B9D7E009B20B8 /* Character.swift */; };
+		3CEC2F01270BA1B6009B20B8 /* FavoritesSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2F00270BA1B6009B20B8 /* FavoritesSectionView.swift */; };
+		3CEC2F04270BBC2C009B20B8 /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CEC2F03270BBC2C009B20B8 /* DetailsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +36,23 @@
 		3CEC2EC9270B5BCE009B20B8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3CEC2ECB270B5BCF009B20B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3CEC2ECE270B5BCF009B20B8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3CEC2ED6270B5DE5009B20B8 /* Avenger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Avenger.swift; sourceTree = "<group>"; };
+		3CEC2ED9270B7B3E009B20B8 /* AvengersListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvengersListView.swift; sourceTree = "<group>"; };
+		3CEC2EDD270B8119009B20B8 /* AvengersSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvengersSectionView.swift; sourceTree = "<group>"; };
+		3CEC2EE0270B8805009B20B8 /* MoviesListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesListView.swift; sourceTree = "<group>"; };
+		3CEC2EE2270B886E009B20B8 /* MovieSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieSectionView.swift; sourceTree = "<group>"; };
+		3CEC2EE5270B8912009B20B8 /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
+		3CEC2EEA270B9444009B20B8 /* AvengersHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvengersHeaderView.swift; sourceTree = "<group>"; };
+		3CEC2EEC270B95CE009B20B8 /* MoviesHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesHeaderView.swift; sourceTree = "<group>"; };
+		3CEC2EEF270B9707009B20B8 /* NewsHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsHeaderView.swift; sourceTree = "<group>"; };
+		3CEC2EF1270B977D009B20B8 /* NewsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsListView.swift; sourceTree = "<group>"; };
+		3CEC2EF3270B97C1009B20B8 /* Art.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Art.swift; sourceTree = "<group>"; };
+		3CEC2EF5270B99E4009B20B8 /* NewsSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsSectionView.swift; sourceTree = "<group>"; };
+		3CEC2EF8270B9B30009B20B8 /* FavoritesHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesHeaderView.swift; sourceTree = "<group>"; };
+		3CEC2EFA270B9BBE009B20B8 /* FavoritesListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesListView.swift; sourceTree = "<group>"; };
+		3CEC2EFE270B9D7E009B20B8 /* Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
+		3CEC2F00270BA1B6009B20B8 /* FavoritesSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesSectionView.swift; sourceTree = "<group>"; };
+		3CEC2F03270BBC2C009B20B8 /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +86,8 @@
 			isa = PBXGroup;
 			children = (
 				3CEC2EC7270B5BCE009B20B8 /* AvengersApp.swift */,
-				3CEC2EC9270B5BCE009B20B8 /* ContentView.swift */,
+				3CEC2ED5270B5DCC009B20B8 /* Models */,
+				3CEC2ED8270B5E5E009B20B8 /* Views */,
 				3CEC2ECB270B5BCF009B20B8 /* Assets.xcassets */,
 				3CEC2ECD270B5BCF009B20B8 /* Preview Content */,
 			);
@@ -65,6 +100,78 @@
 				3CEC2ECE270B5BCF009B20B8 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3CEC2ED5270B5DCC009B20B8 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				3CEC2ED6270B5DE5009B20B8 /* Avenger.swift */,
+				3CEC2EE5270B8912009B20B8 /* Movie.swift */,
+				3CEC2EF3270B97C1009B20B8 /* Art.swift */,
+				3CEC2EFE270B9D7E009B20B8 /* Character.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		3CEC2ED8270B5E5E009B20B8 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3CEC2EC9270B5BCE009B20B8 /* ContentView.swift */,
+				3CEC2EE4270B8874009B20B8 /* Movies */,
+				3CEC2EEE270B96B8009B20B8 /* News */,
+				3CEC2EDF270B87E8009B20B8 /* Avengers */,
+				3CEC2EF7270B9AC7009B20B8 /* Favorites */,
+				3CEC2F02270BBC0A009B20B8 /* Details */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		3CEC2EDF270B87E8009B20B8 /* Avengers */ = {
+			isa = PBXGroup;
+			children = (
+				3CEC2EEA270B9444009B20B8 /* AvengersHeaderView.swift */,
+				3CEC2ED9270B7B3E009B20B8 /* AvengersListView.swift */,
+				3CEC2EDD270B8119009B20B8 /* AvengersSectionView.swift */,
+			);
+			path = Avengers;
+			sourceTree = "<group>";
+		};
+		3CEC2EE4270B8874009B20B8 /* Movies */ = {
+			isa = PBXGroup;
+			children = (
+				3CEC2EEC270B95CE009B20B8 /* MoviesHeaderView.swift */,
+				3CEC2EE0270B8805009B20B8 /* MoviesListView.swift */,
+				3CEC2EE2270B886E009B20B8 /* MovieSectionView.swift */,
+			);
+			path = Movies;
+			sourceTree = "<group>";
+		};
+		3CEC2EEE270B96B8009B20B8 /* News */ = {
+			isa = PBXGroup;
+			children = (
+				3CEC2EEF270B9707009B20B8 /* NewsHeaderView.swift */,
+				3CEC2EF1270B977D009B20B8 /* NewsListView.swift */,
+				3CEC2EF5270B99E4009B20B8 /* NewsSectionView.swift */,
+			);
+			path = News;
+			sourceTree = "<group>";
+		};
+		3CEC2EF7270B9AC7009B20B8 /* Favorites */ = {
+			isa = PBXGroup;
+			children = (
+				3CEC2EF8270B9B30009B20B8 /* FavoritesHeaderView.swift */,
+				3CEC2EFA270B9BBE009B20B8 /* FavoritesListView.swift */,
+				3CEC2F00270BA1B6009B20B8 /* FavoritesSectionView.swift */,
+			);
+			path = Favorites;
+			sourceTree = "<group>";
+		};
+		3CEC2F02270BBC0A009B20B8 /* Details */ = {
+			isa = PBXGroup;
+			children = (
+				3CEC2F03270BBC2C009B20B8 /* DetailsView.swift */,
+			);
+			path = Details;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,7 +245,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				3CEC2ECA270B5BCE009B20B8 /* ContentView.swift in Sources */,
+				3CEC2F04270BBC2C009B20B8 /* DetailsView.swift in Sources */,
+				3CEC2EF2270B977D009B20B8 /* NewsListView.swift in Sources */,
+				3CEC2EE3270B886E009B20B8 /* MovieSectionView.swift in Sources */,
+				3CEC2EE1270B8805009B20B8 /* MoviesListView.swift in Sources */,
+				3CEC2F01270BA1B6009B20B8 /* FavoritesSectionView.swift in Sources */,
+				3CEC2ED7270B5DE5009B20B8 /* Avenger.swift in Sources */,
 				3CEC2EC8270B5BCE009B20B8 /* AvengersApp.swift in Sources */,
+				3CEC2EF9270B9B30009B20B8 /* FavoritesHeaderView.swift in Sources */,
+				3CEC2EF0270B9707009B20B8 /* NewsHeaderView.swift in Sources */,
+				3CEC2EEB270B9444009B20B8 /* AvengersHeaderView.swift in Sources */,
+				3CEC2EFF270B9D7E009B20B8 /* Character.swift in Sources */,
+				3CEC2EF4270B97C1009B20B8 /* Art.swift in Sources */,
+				3CEC2EED270B95CE009B20B8 /* MoviesHeaderView.swift in Sources */,
+				3CEC2EDE270B8119009B20B8 /* AvengersSectionView.swift in Sources */,
+				3CEC2EFB270B9BBE009B20B8 /* FavoritesListView.swift in Sources */,
+				3CEC2EE6270B8912009B20B8 /* Movie.swift in Sources */,
+				3CEC2EDA270B7B3E009B20B8 /* AvengersListView.swift in Sources */,
+				3CEC2EF6270B99E4009B20B8 /* NewsSectionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
